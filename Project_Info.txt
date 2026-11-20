@@ -5,3 +5,9 @@ Project Name: Library Management System
 Purpose: To manage books, members and book issuing/returning records.
 Tools: Git, GitHub
 Lab Task: Software Version Control
+Book Details:
+- Book ID
+- Book Title
+- Author Name
+- Book Category
+- Book Availability
